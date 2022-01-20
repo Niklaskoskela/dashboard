@@ -1,2 +1,2 @@
 # dashboard
-Dashboard to visualise weather and tasks from Google Tasks.
+React Dashboard to be hosted on RasPi. Visualizes weather and tasks from Google Tasks.
